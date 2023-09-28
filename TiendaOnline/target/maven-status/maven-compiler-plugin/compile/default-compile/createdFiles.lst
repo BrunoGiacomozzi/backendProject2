@@ -1,0 +1,12 @@
+com\Tienda\TiendaOnlne\entities\Producto.class
+com\Tienda\TiendaOnlne\service\OrdenDetalleService.class
+com\Tienda\TiendaOnlne\exception\MiException.class
+com\Tienda\TiendaOnlne\service\UsuarioService.class
+com\Tienda\TiendaOnlne\repository\ProductoRepository.class
+com\Tienda\TiendaOnlne\service\ProductoService.class
+com\Tienda\TiendaOnlne\entities\OrdenDetalle.class
+com\Tienda\TiendaOnlne\repository\UsuarioRepository.class
+com\Tienda\TiendaOnlne\TiendaOnlneApplication.class
+com\Tienda\TiendaOnlne\controller\PortalController.class
+com\Tienda\TiendaOnlne\entities\Usuario.class
+com\Tienda\TiendaOnlne\repository\OrdenDetalleRepository.class
